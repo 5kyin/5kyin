@@ -1,34 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Mukund · Product Engineer
 
-## Getting Started
+> Building useful products. Thinking in systems. Shipping with purpose.
 
-First, run the development server:
+I'm a software developer interested in the intersection of product engineering, backend systems, and thoughtful user experiences.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Currently building **HushPOS** — a point-of-sale product exploring privacy-conscious customer loyalty.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### `./currently-building`
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **HushPOS** — POS software and privacy-conscious loyalty experiences.
+- **Full-stack systems** — frontend applications, APIs, and backend architecture.
+- **Developer tooling** — exploring ways to make software more reliable and maintainable.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### `./selected-work`
 
-## Learn More
+| Project | What it explores |
+| --- | --- |
+| [HushPOS](https://hushpos.in) | Point of sale and privacy-conscious loyalty |
+| [Riktam Frontend](https://github.com/5kyin/Riktam_Frontend) | Frontend application development |
+| [Riktam Backend](https://github.com/5kyin/Riktam_Backend) | Backend development and group chat functionality |
+| [Solid](https://github.com/5kyin/solid) | Frontend development experiments |
 
-To learn more about Next.js, take a look at the following resources:
+### `./engineering-interests`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Product engineering · System design · API architecture · Privacy-conscious software · Developer experience
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### `./github-activity`
 
-## Deploy on Vercel
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=5kyin&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5kyin&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Most-used programming languages" />
+</p>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=5kyin&theme=github-compact&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+</p>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### `./connect`
+
+- Portfolio: [5ky.in](https://5ky.in)
+- GitHub: [@5kyin](https://github.com/5kyin)
+
+*Build thoughtfully. Ship consistently. Keep improving.*

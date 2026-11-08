@@ -1,44 +1,51 @@
-# Mukund · Product Engineer
+<!-- 5KYIN | PROFILE -->
 
-> Building useful products. Thinking in systems. Shipping with purpose.
+<div align="center">
 
-I'm a software developer interested in the intersection of product engineering, backend systems, and thoughtful user experiences.
+# 5KYIN
 
-Currently building **HushPOS** — a point-of-sale product exploring privacy-conscious customer loyalty.
+### PRODUCT ENGINEERING · SYSTEMS · BUILDING
 
-### `./currently-building`
+Building products that solve real problems.
 
-- **HushPOS** — POS software and privacy-conscious loyalty experiences.
-- **Full-stack systems** — frontend applications, APIs, and backend architecture.
-- **Developer tooling** — exploring ways to make software more reliable and maintainable.
+I turn ideas into software — from backend architecture to the interfaces people use every day.
 
-### `./selected-work`
+[Website](https://5ky.in) · [GitHub](https://github.com/5kyin)
 
-| Project | What it explores |
-| --- | --- |
-| [HushPOS](https://hushpos.in) | Point of sale and privacy-conscious loyalty |
-| [Riktam Frontend](https://github.com/5kyin/Riktam_Frontend) | Frontend application development |
-| [Riktam Backend](https://github.com/5kyin/Riktam_Backend) | Backend development and group chat functionality |
-| [Solid](https://github.com/5kyin/solid) | Frontend development experiments |
+</div>
 
-### `./engineering-interests`
+---
 
-Product engineering · System design · API architecture · Privacy-conscious software · Developer experience
+### CURRENTLY BUILDING
 
-### `./github-activity`
+**HushPOS** — Point-of-sale software exploring privacy-conscious customer loyalty.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=5kyin&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5kyin&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Most-used programming languages" />
-</p>
+[Explore HushPOS →](https://hushpos.in)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=5kyin&theme=github-compact&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-</p>
+### SELECTED WORK
 
-### `./connect`
+| Project | Description |
+|:--|:--|
+| [HushPOS](https://hushpos.in) | POS and privacy-conscious loyalty |
+| [Riktam Frontend](https://github.com/5kyin/Riktam_Frontend) | Frontend engineering |
+| [Riktam Backend](https://github.com/5kyin/Riktam_Backend) | Backend engineering |
+| [Solid](https://github.com/5kyin/solid) | Frontend experiments |
 
-- Portfolio: [5ky.in](https://5ky.in)
-- GitHub: [@5kyin](https://github.com/5kyin)
+### ENGINEERING INTERESTS
 
-*Build thoughtfully. Ship consistently. Keep improving.*
+`Go` `TypeScript` `JavaScript` `React` `Python` `Docker` `System Design` `APIs`
+
+### HOW I BUILD
+
+- Start with the problem, not the technology.
+- Keep architecture understandable.
+- Build for reliability and maintainability.
+- Ship, learn, and improve.
+
+---
+
+<div align="center">
+
+**BUILD THOUGHTFULLY. SHIP CONSISTENTLY.**
+
+</div>
